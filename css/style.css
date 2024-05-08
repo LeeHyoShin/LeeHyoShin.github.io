@@ -4,3 +4,50 @@ h1 {
     font-size: 50px;
     text-align: center;
 }
+#main_head {
+    color: blue;
+    font-weight: bolder;
+}
+
+.head_title {
+    background-color: gray;
+}
+
+a{target= "_blank"} {
+
+}
+a:link {
+    color: red;
+
+}
+
+#title_gear:hover {
+    color: red;
+}
+
+
+input:focus {
+    background-color: orange;
+
+}
+div {
+    width: 200px;
+    height: 50px;
+    background-color: #dddddd;
+    text-align: center;
+    border: blue solid 2px;
+    border-radius: 10px
+}
+div:hover button {
+    color: red;
+}
+
+div#sub_btn:hover button {
+    color: blue;
+    background-color: yellow;
+    font-weight: bolder;
+}
+
+button {
+    font-style: italic;
+}
