@@ -3,6 +3,18 @@ layout: post
 title: '일상물 애니'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+{% include image.html url="https://watcha.com/contents/tPJ1joR" image="projects/proj-2/bara.jpg" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+[바라카몬](#)<br>
+
+
+{% include image.html url="https://watcha.com/ko-KR/contents/tRWwWaR" image="projects/proj-2/namja_2.jpg" %}
+
+[남자고교생의 일상](#)<br>
+
+
+{% include image.html url="https://www.netflix.com/kr/title/81228573" image="projects/proj-2/komi.jpg" %}
+
+[코미양은 커뮤증입니다](#)<br>
+
+
