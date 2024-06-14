@@ -2,9 +2,11 @@
 layout: post
 title: '판타지 애니'
 ---
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/pri.jpg" %}
+{% include image.html url="https://laftel.net/item/41666" image="projects/proj-1/pri.jpg" %}
 
 [장송의 프리렌](#)
 이 애니매이션은 판타지 장르 애니매이션중 드문 소재를 삼고있는데요. 보통 판타지 애니매이션 같은경우 용사가 마왕을 물리치러 갈때 까지의 서사를 담은 반면, 장송의 프리렌은 이미 용사가 마왕을 처치후 노쇠해서 죽은 후 영생을 살아가는 엘프 동료의 시점에서 이야기 전개 됩니다. 독특한 주제와 장송의 프리렌 특유의 잔잔한 분위기가 어우러져 좋은 시너지를 발휘합니다. 잔잔하고 독특한 판타지 애니매이션을 원하신 경우 장송의 프리렌 어떠신가요?  
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/muji.jpg" %}
+{% include image.html url="https://www.tving.com/contents/P001516376" image="projects/proj-1/muji.jpg" %}
+[무직 전생](#)
+일본에 살던 어느 한 사람, 스스로 생각하기에도 자신은 최악에 인생을 살고 있다 생각하던 한 사람 결국 집에서 쫒겨 나고 마는데요. 그후 정처없이 방황하다. 위험에 빠진 고등학생을 구하기위해 몸을 던졌지만 결국 사망하게 된다. 그후 다시 눈을 뜨게 되는데, 눈을 뜬 자신은 아기가 돼있었고 자신과 살던 세계와는 다른 세계라는 걸 깨달았다. 그후 주인공은 속으로 생각했다."이번 인생은 낭비없이 후회없는 삶을 살거야"라고, 그후 성장해나가는 주인공의 이야기를 그리는 작품인데요. 이작품은 작화 퀄리가 높아 화려한 액션신 흥미진진한 스토리 누구나 상상 했을만한 전생을 했더니 마법을 사용할 수 있게된 이야기입니다. 화려한 액션신 그리고 주인공의 미래가 궁금하시다면 무직 전생 어떠신가요? 
